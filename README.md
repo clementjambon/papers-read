@@ -2,15 +2,15 @@
 This repo is regularly updated with the papers I read so far.
 
 Categories are:
-* [Computer Vision](#computer-vision)
+* [Computer Vision](#computer-vision-)
     * [SLAM](#slam)
     * [Image search](#image-search)
     * [Image processing](#image-processing)
     * [Descriptors](#descriptors)
-* [Applied Mathematics](#applied-mathematics)
+* [Applied Mathematics](#applied-mathematics-)
 * [Similarity Search](#similarity-search)
 
-## Computer vision
+## Computer vision 👀
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.
 - R. Mur-Artal and J. D. Tardós, "ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras," in IEEE Transactions on Robotics, vol. 33, no. 5, pp. 1255-1262, Oct. 2017, doi: 10.1109/TRO.2017.2705103.
@@ -33,7 +33,7 @@ Categories are:
 - David G. Lowe. Distinctive Image Features from Scale-Invariant Keypoints.
 - Krystian Mikolajczyk, Cordelia Schmid. Scale & affine invariant interest point detectors. International Journal of Computer Vision, Springer Verlag, 2004, 60 (1), pp.63--86. 
 
-## Applied Mathematics
+## Applied Mathematics 📐
 - Keener, J. "The Perron–Frobenius Theorem and the Ranking of Football Teams". SIAM Review 1993; 35(1):80-93.
 - Joan Solà, Jeremie Deray, Dinesh Atchuthan. A micro Lie theory for state estimation in robotics. 
 

@@ -37,7 +37,7 @@ Categories are:
 - Keener, J. "The Perron–Frobenius Theorem and the Ranking of Football Teams". SIAM Review 1993; 35(1):80-93.
 - Joan Solà, Jeremie Deray, Dinesh Atchuthan. A micro Lie theory for state estimation in robotics. 
 
-## Machine Learning
+### Dimension reduction
 - R. Hadsell, S. Chopra and Y. LeCun, "Dimensionality Reduction by Learning an Invariant Mapping," 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06), 2006, pp. 1735-1742, doi: 10.1109/CVPR.2006.100.
 
 ## Similarity search

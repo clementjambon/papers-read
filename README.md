@@ -37,5 +37,8 @@ Categories are:
 - Keener, J. "The Perron–Frobenius Theorem and the Ranking of Football Teams". SIAM Review 1993; 35(1):80-93.
 - Joan Solà, Jeremie Deray, Dinesh Atchuthan. A micro Lie theory for state estimation in robotics. 
 
+## Machine Learning
+- R. Hadsell, S. Chopra and Y. LeCun, "Dimensionality Reduction by Learning an Invariant Mapping," 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06), 2006, pp. 1735-1742, doi: 10.1109/CVPR.2006.100.
+
 ## Similarity search
 - H. Jégou, M. Douze and C. Schmid, "Product Quantization for Nearest Neighbor Search," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 33, no. 1, pp. 117-128, Jan. 2011, doi: 10.1109/TPAMI.2010.57.

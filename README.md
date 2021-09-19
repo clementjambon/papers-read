@@ -11,6 +11,8 @@ Categories are:
     * [Dimension reduction](#dimension-reduction)
 * [Similarity Search](#similarity-search)
 * [Computer Graphics](#computer-graphics)
+    * [Signed Distance Fields](#signed-distance-fields)
+    * [Procedural Generation](#procedural-generation)
 
 ## Computer vision 👀
 ### SLAM
@@ -46,6 +48,10 @@ Categories are:
 - H. Jégou, M. Douze and C. Schmid, "Product Quantization for Nearest Neighbor Search," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 33, no. 1, pp. 117-128, Jan. 2011, doi: 10.1109/TPAMI.2010.57.
 
 ## Computer Graphics
+
+### Signed Distance Fields
+- M. W. Jones, J. A. Baerentzen and M. Sramek, "3D distance fields: a survey of techniques and applications," in IEEE Transactions on Visualization and Computer Graphics, vol. 12, no. 4, pp. 581-599, July-Aug. 2006, doi: 10.1109/TVCG.2006.56.
+- Sarah F. Frisken, Ronald N. Perry, Alyn P. Rockwood, and Thouis R. Jones. 2000. Adaptively sampled distance fields: a general representation of shape for computer graphics. In Proceedings of the 27th annual conference on Computer graphics and interactive techniques (SIGGRAPH '00). ACM Press/Addison-Wesley Publishing Co., USA, 249–254. DOI:https://doi.org/10.1145/344779.344899
 
 ### Procedural Generation
 - Yoav I. H. Parish and Pascal Müller. 2001. Procedural modeling of cities. In Proceedings of the 28th annual conference on Computer graphics and interactive techniques (SIGGRAPH '01). Association for Computing Machinery, New York, NY, USA, 301–308. DOI:https://doi.org/10.1145/383259.383292

@@ -8,7 +8,9 @@ Categories are:
     * [Image processing](#image-processing)
     * [Descriptors](#descriptors)
 * [Applied Mathematics](#applied-mathematics-)
+    * [Dimension reduction](#dimension-reduction)
 * [Similarity Search](#similarity-search)
+* [Computer Graphics](#computer-graphics)
 
 ## Computer vision 👀
 ### SLAM
@@ -42,3 +44,10 @@ Categories are:
 
 ## Similarity search
 - H. Jégou, M. Douze and C. Schmid, "Product Quantization for Nearest Neighbor Search," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 33, no. 1, pp. 117-128, Jan. 2011, doi: 10.1109/TPAMI.2010.57.
+
+## Computer Graphics
+
+### Procedural Generation
+- Yoav I. H. Parish and Pascal Müller. 2001. Procedural modeling of cities. In Proceedings of the 28th annual conference on Computer graphics and interactive techniques (SIGGRAPH '01). Association for Computing Machinery, New York, NY, USA, 301–308. DOI:https://doi.org/10.1145/383259.383292
+- Guoning Chen, Gregory Esch, Peter Wonka, Pascal Müller, and Eugene Zhang. 2008. Interactive procedural street modeling. ACM Trans. Graph. 27, 3 (August 2008), 1–10. DOI:https://doi.org/10.1145/1360612.1360702
+  

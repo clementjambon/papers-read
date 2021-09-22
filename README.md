@@ -53,6 +53,7 @@ Categories are:
 - Hart, J. Sphere tracing: a geometric method for the antialiased ray tracing of implicit surfaces. The Visual Computer 12, 527–545 (1996). https://doi.org/10.1007/s003710050084
 - M. W. Jones, J. A. Baerentzen and M. Sramek, "3D distance fields: a survey of techniques and applications," in IEEE Transactions on Visualization and Computer Graphics, vol. 12, no. 4, pp. 581-599, July-Aug. 2006, doi: 10.1109/TVCG.2006.56.
 - Sarah F. Frisken, Ronald N. Perry, Alyn P. Rockwood, and Thouis R. Jones. 2000. Adaptively sampled distance fields: a general representation of shape for computer graphics. In Proceedings of the 27th annual conference on Computer graphics and interactive techniques (SIGGRAPH '00). ACM Press/Addison-Wesley Publishing Co., USA, 249–254. DOI:https://doi.org/10.1145/344779.344899
+- T. Bastos and W. Celes, "GPU-accelerated Adaptively Sampled Distance Fields," 2008 IEEE International Conference on Shape Modeling and Applications, 2008, pp. 171-178, doi: 10.1109/SMI.2008.4547967.
 
 ### Procedural Generation
 - Yoav I. H. Parish and Pascal Müller. 2001. Procedural modeling of cities. In Proceedings of the 28th annual conference on Computer graphics and interactive techniques (SIGGRAPH '01). Association for Computing Machinery, New York, NY, USA, 301–308. DOI:https://doi.org/10.1145/383259.383292

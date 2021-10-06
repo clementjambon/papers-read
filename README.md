@@ -1,6 +1,11 @@
 # Papers I read
 This repo is regularly updated with the papers I read so far.
 
+I also maintain lists of:
+* [articles I read](articles-read.md)
+* [videos I watched](videos-watched.md)
+* [books I read](books-read.md)
+
 Categories are:
 * [Computer Vision](#computer-vision-)
     * [SLAM](#slam)

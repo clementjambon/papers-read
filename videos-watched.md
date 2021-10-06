@@ -4,6 +4,7 @@ A curated list of videos I watched (talks, tutorials, etc.)
 ## Computer Graphics
 - DD2018: Sebastian Aaltonen - GPU based clay simulation and ray tracing tech in Claybook, [https://www.youtube.com/watch?v=Xpf7Ua3UqOA]
 - HPG 2021: Keynote: Alex Evans (NVIDIA), Optimising for Artist Happiness, [https://www.youtube.com/watch?v=eGfX1iWzkh0&t=1222s]
+- Compute shader 101, Raph Levien, June 4, 2021, Raph Levien, [https://www.youtube.com/watch?v=DZRn_jNZjbw]
 
 ### Keenan Crane - Discrete Differential Geometry
 - Lecture 1: Overview (Discrete Differential Geometry), [https://www.youtube.com/watch?v=8JCR6z3GLVI]

@@ -32,6 +32,7 @@ Categories are:
 ### Image processing
 - P. Burt and E. Adelson, "The Laplacian Pyramid as a Compact Image Code," in IEEE Transactions on Communications, vol. 31, no. 4, pp. 532-540, April 1983, doi: 10.1109/TCOM.1983.1095851.
 - A. A. Efros and T. K. Leung, "Texture synthesis by non-parametric sampling," Proceedings of the Seventh IEEE International Conference on Computer Vision, 1999, pp. 1033-1038 vol.2, doi: 10.1109/ICCV.1999.790383.
+- Brown and Lowe, "Recognising panoramas," Proceedings Ninth IEEE International Conference on Computer Vision, 2003, pp. 1218-1225 vol.2, doi: 10.1109/ICCV.2003.1238630.
 
 ### Descriptors
 - David G. Lowe. Distinctive Image Features from Scale-Invariant Keypoints.

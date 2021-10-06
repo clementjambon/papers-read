@@ -35,11 +35,16 @@ Categories are:
 
 ### Descriptors
 - David G. Lowe. Distinctive Image Features from Scale-Invariant Keypoints.
-- Krystian Mikolajczyk, Cordelia Schmid. Scale & affine invariant interest point detectors. International Journal of Computer Vision, Springer Verlag, 2004, 60 (1), pp.63--86. 
+- Krystian Mikolajczyk, Cordelia Schmid. Scale & affine invariant interest point detectors. International Journal of Computer Vision, Springer Verlag, 2004, 60 (1), pp.63--86.
+- E. Rublee, V. Rabaud, K. Konolige and G. Bradski, "ORB: An efficient alternative to SIFT or SURF," 2011 International Conference on Computer Vision, 2011, pp. 2564-2571, doi: 10.1109/ICCV.2011.6126544. 
 
 ## Applied Mathematics 📐
 - Keener, J. "The Perron–Frobenius Theorem and the Ranking of Football Teams". SIAM Review 1993; 35(1):80-93.
-- Joan Solà, Jeremie Deray, Dinesh Atchuthan. A micro Lie theory for state estimation in robotics. 
+- Joan Solà, Jeremie Deray, Dinesh Atchuthan. A micro Lie theory for state estimation in robotics.
+- Martin A. Fischler and Robert C. Bolles. 1981. "Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography". Commun. ACM 24, 6 (June 1981), 381–395. DOI:https://doi.org/10.1145/358669.358692
+
+### 3D geometry
+- K. S. Arun, T. S. Huang and S. D. Blostein, "Least-Squares Fitting of Two 3-D Point Sets," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. PAMI-9, no. 5, pp. 698-700, Sept. 1987, doi: 10.1109/TPAMI.1987.4767965.
 
 ### Dimension reduction
 - R. Hadsell, S. Chopra and Y. LeCun, "Dimensionality Reduction by Learning an Invariant Mapping," 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06), 2006, pp. 1735-1742, doi: 10.1109/CVPR.2006.100.

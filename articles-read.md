@@ -9,3 +9,4 @@ A list of articles I read.
 * "soft shadows in raymarched SDFs", 2010 , https://www.iquilezles.org/www/articles/rmshadows/rmshadows.htm
 * "Programmer’s Guide to Gamma Correction", Jacob Bell, July 2, 2018, https://medium.com/@Jacob_Bell/programmers-guide-to-gamma-correction-4c1d3a1724fb
 * "Gentle introduction to GPUs inner workings", Sep 20, 2021, https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
+* "Are all SIFTs created equal? (part 1)", Dmytro Mishkin, May 7, 2019, https://ducha-aiki.medium.com/are-all-sifts-created-equal-part-1-1dbdc565bffb

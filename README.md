@@ -59,6 +59,7 @@ Categories are:
 
 ## Similarity search
 - H. Jégou, M. Douze and C. Schmid, "Product Quantization for Nearest Neighbor Search," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 33, no. 1, pp. 117-128, Jan. 2011, doi: 10.1109/TPAMI.2010.57.
+- Ulrike von Luxburg. (2007). "A Tutorial on Spectral Clustering." 
 
 ## Computer Graphics
 

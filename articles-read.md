@@ -13,6 +13,7 @@ A list of articles I read.
 
 ### October
 * "Introduction to compute shaders", July 07, 2018, https://anteru.net/blog/2018/intro-to-compute-shaders/
+* "A Brief Survey of Node Classification with Graph Neural Networks", Feb 26, 2020, ODSC, https://medium.com/@ODSC/a-brief-survey-of-node-classification-with-graph-neural-networks-fa02aff024e4
 
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/

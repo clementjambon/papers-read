@@ -63,6 +63,9 @@ Categories are:
 
 ## Computer Graphics
 
+### Geometry Processing
+- Meyer, A. 2003. Discrete Differential-Geometry Operators for Triangulated 2-Manifolds. In Visualization and Mathematics III (pp. 35–57). Springer Berlin Heidelberg.
+
 ### Signed Distance Fields
 - Hart, J. Sphere tracing: a geometric method for the antialiased ray tracing of implicit surfaces. The Visual Computer 12, 527–545 (1996). https://doi.org/10.1007/s003710050084
 - M. W. Jones, J. A. Baerentzen and M. Sramek, "3D distance fields: a survey of techniques and applications," in IEEE Transactions on Visualization and Computer Graphics, vol. 12, no. 4, pp. 581-599, July-Aug. 2006, doi: 10.1109/TVCG.2006.56.

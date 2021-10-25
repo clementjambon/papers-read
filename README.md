@@ -7,6 +7,8 @@ I also maintain lists of:
 * [books I read](books-read.md)
 
 Categories are:
+* [Machine Learing](#machine-learning)
+    *[Graphs](#graphs)
 * [Computer Vision](#computer-vision-)
     * [SLAM](#slam)
     * [Image search](#image-search)
@@ -18,7 +20,9 @@ Categories are:
 * [Computer Graphics](#computer-graphics)
     * [Signed Distance Fields](#signed-distance-fields)
     * [Procedural Generation](#procedural-generation)
-
+## Machine Learning
+### Graphs
+- T. N. Kipf, M. Welling. "Semi-Supervised Classification With Graph Convolutional Networks". ICLR 2017.
 ## Computer vision 👀
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.

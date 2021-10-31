@@ -21,6 +21,7 @@ Categories are:
     * [Signed Distance Fields](#signed-distance-fields)
     * [Procedural Generation](#procedural-generation)
 ## Machine Learning
+- Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov. "Dropout: A Simple Way to Prevent Neural Networks from Overfitting". Journal of Machine Learning Research 2014; 15(56):1929-1958.
 ### Graphs
 - T. N. Kipf, M. Welling. "Semi-Supervised Classification With Graph Convolutional Networks". ICLR 2017.
 ## Computer vision 👀

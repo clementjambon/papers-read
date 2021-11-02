@@ -72,6 +72,7 @@ Categories are:
 - Meyer, A. 2003. Discrete Differential-Geometry Operators for Triangulated 2-Manifolds. In Visualization and Mathematics III (pp. 35–57). Springer Berlin Heidelberg.
 - Olga Sorkine and Marc Alexa. 2007. As-rigid-as-possible surface modeling. In Proceedings of the fifth Eurographics symposium on Geometry processing (SGP '07). Eurographics Association, Goslar, DEU, 109–116.
 - Hsueh-Ti Derek liu and Alec Jacobson. 2019. Cubic stylization. ACM Trans. Graph. 38, 6, Article 197 (November 2019), 10 pages. DOI:https://doi.org/10.1145/3355089.3356495
+- Y. Lipman, O. Sorkine, D. Cohen-Or, D. Levin, C. Rossi and H. P. Seidel, "Differential coordinates for interactive mesh editing," Proceedings Shape Modeling Applications, 2004., 2004, pp. 181-190, doi: 10.1109/SMI.2004.1314505.
 
 ### Signed Distance Fields
 - Hart, J. Sphere tracing: a geometric method for the antialiased ray tracing of implicit surfaces. The Visual Computer 12, 527–545 (1996). https://doi.org/10.1007/s003710050084

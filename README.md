@@ -10,6 +10,7 @@ Categories are:
 * [Machine Learing](#machine-learning)
     *[Graphs](#graphs)
 * [Computer Vision](#computer-vision-)
+    * [Scene Representation](#scene-representation)
     * [SLAM](#slam)
     * [Image search](#image-search)
     * [Image processing](#image-processing)
@@ -25,6 +26,8 @@ Categories are:
 ### Graphs
 - T. N. Kipf, M. Welling. "Semi-Supervised Classification With Graph Convolutional Networks". ICLR 2017.
 ## Computer vision 👀
+### Scene representation
+Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng. "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". CoRR 2020; abs/2003.08934.
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.
 - R. Mur-Artal and J. D. Tardós, "ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras," in IEEE Transactions on Robotics, vol. 33, no. 5, pp. 1255-1262, Oct. 2017, doi: 10.1109/TRO.2017.2705103.
@@ -73,6 +76,7 @@ Categories are:
 - Olga Sorkine and Marc Alexa. 2007. As-rigid-as-possible surface modeling. In Proceedings of the fifth Eurographics symposium on Geometry processing (SGP '07). Eurographics Association, Goslar, DEU, 109–116.
 - Hsueh-Ti Derek liu and Alec Jacobson. 2019. Cubic stylization. ACM Trans. Graph. 38, 6, Article 197 (November 2019), 10 pages. DOI:https://doi.org/10.1145/3355089.3356495
 - Y. Lipman, O. Sorkine, D. Cohen-Or, D. Levin, C. Rossi and H. P. Seidel, "Differential coordinates for interactive mesh editing," Proceedings Shape Modeling Applications, 2004., 2004, pp. 181-190, doi: 10.1109/SMI.2004.1314505.
+- 
 
 ### Signed Distance Fields
 - Hart, J. Sphere tracing: a geometric method for the antialiased ray tracing of implicit surfaces. The Visual Computer 12, 527–545 (1996). https://doi.org/10.1007/s003710050084

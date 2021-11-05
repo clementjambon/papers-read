@@ -70,6 +70,7 @@ Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barro
 - R. Hadsell, S. Chopra and Y. LeCun, "Dimensionality Reduction by Learning an Invariant Mapping," 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06), 2006, pp. 1735-1742, doi: 10.1109/CVPR.2006.100.
 - Joshua B. Tenenbaum, Vin de Silvaand John C. Langford, "A Global Geometric Framework for Nonlinear Dimensionality Reduction", Science, 22 Dec 2000, Vol 290, Issue 5500, pp. 2319-2323, DOI: 10.1126/science.290.5500.2319
 - Sam T. Roweis and Lawrence K. Saul, "Nonlinear Dimensionality Reduction by Locally Linear Embedding", Science, 22 Dec 2000, Vol 290, Issue 5500, pp. 2323-2326, DOI: 10.1126/science.290.5500.2323
+- M. Aharon, M. Elad and A. Bruckstein, "K-SVD: An algorithm for designing overcomplete dictionaries for sparse representation," in IEEE Transactions on Signal Processing, vol. 54, no. 11, pp. 4311-4322, Nov. 2006, doi: 10.1109/TSP.2006.881199.
 
 ## Similarity search
 - H. Jégou, M. Douze and C. Schmid, "Product Quantization for Nearest Neighbor Search," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 33, no. 1, pp. 117-128, Jan. 2011, doi: 10.1109/TPAMI.2010.57.

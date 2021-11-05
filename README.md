@@ -20,6 +20,8 @@ Categories are:
     * [Dimension reduction](#dimension-reduction)
 * [Similarity Search](#similarity-search)
 * [Computer Graphics](#computer-graphics)
+    * [Compression](#compression)
+    * [Geometry Processing](#geometry-processing)
     * [Signed Distance Fields](#signed-distance-fields)
     * [Procedural Generation](#procedural-generation)
 ## Machine Learning
@@ -74,6 +76,9 @@ Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barro
 - Ulrike von Luxburg. (2007). "A Tutorial on Spectral Clustering." 
 
 ## Computer Graphics
+
+### Compression
+- Schuster, K, Trettner, P, Schmitz, P, Schakib, J, Kobbelt, LCompression and Rendering of Textured Point Clouds via Sparse Coding. In High-Performance Graphics - Symposium Papers 2021 . The Eurographics Association.
 
 ### Geometry Processing
 - Meyer, A. 2003. Discrete Differential-Geometry Operators for Triangulated 2-Manifolds. In Visualization and Mathematics III (pp. 35–57). Springer Berlin Heidelberg.

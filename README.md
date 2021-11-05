@@ -12,6 +12,7 @@ Categories are:
 * [Computer Vision](#computer-vision-)
     * [Scene Representation](#scene-representation)
     * [SLAM](#slam)
+    * [Structure from Motion](#structure-from-motion)
     * [Image search](#image-search)
     * [Image processing](#image-processing)
     * [Descriptors](#descriptors)
@@ -34,6 +35,9 @@ Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barro
 - Campos, C, Elvira, R, Rodriguez, J, M. Montiel, J, D. Tardos, J. "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual–Inertial, and Multimap SLAM". IEEE Transactions on Robotics 2021:1–17.
 - Bescos, B, Facil, J, Civera, J, Neira, J. "DynaSLAM: Tracking, Mapping, and Inpainting in Dynamic Scenes". IEEE Robotics and Automation Letters 2018; 3(4):4076–4083.
 - Sumikura, S, Shibuya, M, Sakurada, K. "OpenVSLAM". Proceedings of the 27th ACM International Conference on Multimedia 2019.
+
+### Structure from Motion
+- J. L. Schönberger and J. Frahm, "Structure-from-Motion Revisited," 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 4104-4113, doi: 10.1109/CVPR.2016.445.
 
 ### Image search
 - A. Torii, J. Sivic, M. Okutomi and T. Pajdla, "Visual Place Recognition with Repetitive Structures," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 37, no. 11, pp. 2346-2359, 1 Nov. 2015, doi: 10.1109/TPAMI.2015.2409868.

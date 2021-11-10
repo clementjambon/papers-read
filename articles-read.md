@@ -18,6 +18,7 @@ A list of articles I read.
 ### November
 * "Digging to the root with DNS queries", Eli Billauer, March 30, 2019, http://billauer.co.il/blog/2019/03/dig-recursive-root-dns/
 * "Configure BIND as a slave DNS server", Graham Shaw,  microHOWTO, http://www.microhowto.info/howto/configure_bind_as_a_slave_dns_server.html
+* "BIND Configuration Files", Red Hat Linux 7.3: The Official Red Hat Linux Reference Guide, ftp://archive.download.redhat.com/pub/redhat/linux/7.3/es/doc/RH-DOCS/rhl-rg-en-7.3/s1-bind-configuration.html
 * "The Softmax function and its derivative", Eli Bendersky, Oct. 18, 2018, https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/
 
 #### The ryg blog: A trip through the Graphics Pipeline

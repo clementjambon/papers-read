@@ -20,6 +20,9 @@ A list of articles I read.
 * "Configure BIND as a slave DNS server", Graham Shaw,  microHOWTO, http://www.microhowto.info/howto/configure_bind_as_a_slave_dns_server.html
 * "BIND Configuration Files", Red Hat Linux 7.3: The Official Red Hat Linux Reference Guide, ftp://archive.download.redhat.com/pub/redhat/linux/7.3/es/doc/RH-DOCS/rhl-rg-en-7.3/s1-bind-configuration.html
 * "The Softmax function and its derivative", Eli Bendersky, Oct. 18, 2018, https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/
+* "Understanding LSTM Networks", Chris Olah, Aug. 27, 2015, https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+* "Attention and Augmented Recurrent Neural Networks", Chirs Olah & Shan Carter, Sept. 8, 2016, https://distill.pub/2016/augmented-rnns/
+* "Exploring Bayesian Optimization", Apoorv Agnihotri & Nipun Batra, May 5, 2020, https://distill.pub/2020/bayesian-optimization/
 
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/

@@ -9,6 +9,7 @@ I also maintain lists of:
 Categories are:
 * [Machine Learing](#machine-learning)
     * [Graphs](#graphs)
+    * [NLP](#nlp)
 * [Computer Vision](#computer-vision-)
     * [Geometry](#geometry)
     * [Scene Representation](#scene-representation)
@@ -29,6 +30,8 @@ Categories are:
 - Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov. "Dropout: A Simple Way to Prevent Neural Networks from Overfitting". Journal of Machine Learning Research 2014; 15(56):1929-1958.
 ### Graphs
 - T. N. Kipf, M. Welling. "Semi-Supervised Classification With Graph Convolutional Networks". ICLR 2017.
+### NLP
+- Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean. Efficient Estimation of Word Representations in Vector Space. 
 
 ## Computer vision 👀
 ### Geometry

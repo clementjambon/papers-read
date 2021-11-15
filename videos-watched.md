@@ -12,6 +12,7 @@ A curated list of videos I watched (talks, tutorials, etc.)
 - Directed acyclic graph encoding for compressed shadow maps, HPG 2021, July 7, 2021, Leonardo Scandolo, Elmar Eisemann, [Video](https://www.youtube.com/watch?v=L8IfdFokzDA&t=5710s)
 - Compression and Rendering of Textured Point Clouds via Sparse Coding, HPG 2021, July 7, 2021, [Video](https://www.youtube.com/watch?v=L8IfdFokzDA&t=7290s)
 - Shape Approximation & Applications, SGP2021 Graduate School, Tamy Boubekeur, [Video](https://www.youtube.com/watch?v=CjBTg1eXZz8)
+- Sand Rendering in Journey, John Edwards, GDC 2013, [Video]https://www.youtube.com/watch?v=wt2yYnBRD3U
 
 ### Keenan Crane - Discrete Differential Geometry
 - Lecture 1: Overview (Discrete Differential Geometry), [https://www.youtube.com/watch?v=8JCR6z3GLVI]

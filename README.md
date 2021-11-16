@@ -95,6 +95,8 @@ Hartley Richard I., 1998, Minimizing algebraic error, Phil. Trans. R. Soc. A.356
 - Y. Lipman, O. Sorkine, D. Cohen-Or, D. Levin, C. Rossi and H. P. Seidel, "Differential coordinates for interactive mesh editing," Proceedings Shape Modeling Applications, 2004., 2004, pp. 181-190, doi: 10.1109/SMI.2004.1314505.
 - Mathieu Desbrun, Mark Meyer, Peter Schröder, and Alan H. Barr. 1999. Implicit fairing of irregular meshes using diffusion and curvature flow. In Proceedings of the 26th annual conference on Computer graphics and interactive techniques (SIGGRAPH '99). ACM Press/Addison-Wesley Publishing Co., USA, 317–324. DOI:https://doi.org/10.1145/311535.311576
 - O. Sorkine, D. Cohen-Or, Y. Lipman, M. Alexa, C. Rössl, and H.-P. Seidel. 2004. Laplacian surface editing. In Proceedings of the 2004 Eurographics/ACM SIGGRAPH symposium on Geometry processing (SGP '04). Association for Computing Machinery, New York, NY, USA, 175–184. DOI:https://doi.org/10.1145/1057432.1057456
+- Fernando de Goes and Alonso Martinez. 2019. Mesh wrap based on affine-invariant coordinates. In ACM SIGGRAPH 2019 Talks (SIGGRAPH '19). Association for Computing Machinery, New York, NY, USA, Article 4, 1–2. DOI:https://doi.org/10.1145/3306307.3328162
+- Mullen, P., De Goes, F., Desbrun, M., Cohen-Steiner, D. and Alliez, P. (2010), Signing the Unsigned: Robust Surface Reconstruction from Raw Pointsets. Computer Graphics Forum, 29: 1733–1741. doi: 10.1111/j.1467-8659.2010.01782.x 
 
 ### Signed Distance Fields
 - Hart, J. Sphere tracing: a geometric method for the antialiased ray tracing of implicit surfaces. The Visual Computer 12, 527–545 (1996). https://doi.org/10.1007/s003710050084

@@ -23,6 +23,8 @@ A list of articles I read.
 * "Understanding LSTM Networks", Chris Olah, Aug. 27, 2015, https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 * "Attention and Augmented Recurrent Neural Networks", Chirs Olah & Shan Carter, Sept. 8, 2016, https://distill.pub/2016/augmented-rnns/
 * "Exploring Bayesian Optimization", Apoorv Agnihotri & Nipun Batra, May 5, 2020, https://distill.pub/2020/bayesian-optimization/
+* "Permutation-Invariant Neural Networks for Reinforcement Learning", David Ha, Yujin Tang, Nov. 18, 2021, https://ai.googleblog.com/2021/11/permutation-invariant-neural-networks.html
+* "Decisiveness in Imitation Learning for Robots", Pete Florence, Corey Lynch,  Nov. 19, 2021, https://ai.googleblog.com/2021/11/decisiveness-in-imitation-learning-for.html
 
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/

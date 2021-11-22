@@ -10,6 +10,7 @@ Categories are:
 * [Machine Learing](#machine-learning)
     * [Graphs](#graphs)
     * [NLP](#nlp)
+* [Topological Data Analysis](#topological-data-analysis)
 * [Computer Vision](#computer-vision-)
     * [Geometry](#geometry)
     * [Scene Representation](#scene-representation)
@@ -32,6 +33,9 @@ Categories are:
 - T. N. Kipf, M. Welling. "Semi-Supervised Classification With Graph Convolutional Networks". ICLR 2017.
 ### NLP
 - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean. Efficient Estimation of Word Representations in Vector Space. 
+
+## Topological Data Analysis
+- Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692
 
 ## Computer vision 👀
 ### Geometry

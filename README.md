@@ -8,6 +8,7 @@ I also maintain lists of:
 
 Categories are:
 * [Machine Learing](#machine-learning)
+    * [Optimization](#optimization)
     * [Graphs](#graphs)
     * [NLP](#nlp)
 * [Topological Data Analysis](#topological-data-analysis)
@@ -28,7 +29,9 @@ Categories are:
     * [Signed Distance Fields](#signed-distance-fields)
     * [Procedural Generation](#procedural-generation)
 ## Machine Learning
+### Optimization
 - Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov. "Dropout: A Simple Way to Prevent Neural Networks from Overfitting". Journal of Machine Learning Research 2014; 15(56):1929-1958.
+- Sebastian Ruder. (2017). An overview of gradient descent optimization algorithms. 
 ### Graphs
 - T. N. Kipf, M. Welling. "Semi-Supervised Classification With Graph Convolutional Networks". ICLR 2017.
 ### NLP

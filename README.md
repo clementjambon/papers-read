@@ -49,6 +49,7 @@ Categories are:
 Hartley Richard I., 1998, Minimizing algebraic error, Phil. Trans. R. Soc. A.3561175–1192, http://doi.org/10.1098/rsta.1998.0216
 ### Scene representation
 - Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng. "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". CoRR 2020; abs/2003.08934.
+- Jianxiong Shen, Adria Ruiz, Antonio Agudo, & Francesc Moreno-Noguer. (2021). Stochastic Neural Radiance Fields: Quantifying Uncertainty in Implicit 3D Representations.
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.
 - R. Mur-Artal and J. D. Tardós, "ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras," in IEEE Transactions on Robotics, vol. 33, no. 5, pp. 1255-1262, Oct. 2017, doi: 10.1109/TRO.2017.2705103.

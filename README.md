@@ -20,6 +20,7 @@ Categories are:
     * [Image search](#image-search)
     * [Image processing](#image-processing)
     * [Descriptors](#descriptors)
+    * [Graph cuts](#graph-cuts)
 * [Applied Mathematics](#applied-mathematics-)
     * [Dimension reduction](#dimension-reduction)
 * [Similarity Search](#similarity-search)
@@ -34,10 +35,11 @@ Categories are:
 - Sebastian Ruder. (2017). An overview of gradient descent optimization algorithms. 
 ### Graphs
 - T. N. Kipf, M. Welling. "Semi-Supervised Classification With Graph Convolutional Networks". ICLR 2017.
+- Aditya Grover and Jure Leskovec. 2016. Node2vec: Scalable Feature Learning for Networks. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '16). Association for Computing Machinery, New York, NY, USA, 855–864. DOI:https://doi.org/10.1145/2939672.2939754
 ### NLP
 - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean. Efficient Estimation of Word Representations in Vector Space. 
 - Tomas Mikolov, Quoc V. Le, & Ilya Sutskever. (2013). Exploiting Similarities among Languages for Machine Translation. 
-- Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, & Antoine Bordes. (2018). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data. 
+- Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, & Antoine Bordes. (2018). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data.
 
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692
@@ -73,6 +75,9 @@ Hartley Richard I., 1998, Minimizing algebraic error, Phil. Trans. R. Soc. A.356
 - David G. Lowe. Distinctive Image Features from Scale-Invariant Keypoints.
 - Krystian Mikolajczyk, Cordelia Schmid. Scale & affine invariant interest point detectors. International Journal of Computer Vision, Springer Verlag, 2004, 60 (1), pp.63--86.
 - E. Rublee, V. Rabaud, K. Konolige and G. Bradski, "ORB: An efficient alternative to SIFT or SURF," 2011 International Conference on Computer Vision, 2011, pp. 2564-2571, doi: 10.1109/ICCV.2011.6126544. 
+
+### Graphc cuts
+- H. Ishikawa, "Exact optimization for Markov random fields with convex priors" in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 25, no. 10, pp. 1333-1336, Oct. 2003, doi: 10.1109/TPAMI.2003.1233908.
 
 ## Applied Mathematics 📐
 - Keener, J. "The Perron–Frobenius Theorem and the Ranking of Football Teams". SIAM Review 1993; 35(1):80-93.

@@ -12,6 +12,7 @@ Categories are:
     * [Graphs](#graphs)
     * [NLP](#nlp)
 * [Topological Data Analysis](#topological-data-analysis)
+* [Optimal Transport](#optimal-transport)
 * [Computer Vision](#computer-vision-)
     * [Geometry](#geometry)
     * [Scene Representation](#scene-representation)
@@ -44,6 +45,9 @@ Categories are:
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692
 - Yuhei Umeda, Time Series Classification via Topological Data Analysis, Transactions of the Japanese Society for Artificial Intelligence, 2017, Volume 32, Issue 3, Pages D-G72_1-12
+
+## Optimal Transport
+- Marco Cuturi. 2013. Sinkhorn distances: lightspeed computation of optimal transport. In Proceedings of the 26th International Conference on Neural Information Processing Systems - Volume 2 (NIPS'13). Curran Associates Inc., Red Hook, NY, USA, 2292–2300.
 
 ## Computer vision 👀
 ### Geometry

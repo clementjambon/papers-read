@@ -43,6 +43,7 @@ Categories are:
 
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692
+- Yuhei Umeda, Time Series Classification via Topological Data Analysis, Transactions of the Japanese Society for Artificial Intelligence, 2017, Volume 32, Issue 3, Pages D-G72_1-12
 
 ## Computer vision 👀
 ### Geometry

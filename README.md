@@ -46,7 +46,7 @@ Categories are:
 
 ## Computer vision 👀
 ### Geometry
-Hartley Richard I., 1998, Minimizing algebraic error, Phil. Trans. R. Soc. A.3561175–1192, http://doi.org/10.1098/rsta.1998.0216
+- Hartley Richard I., 1998, Minimizing algebraic error, Phil. Trans. R. Soc. A.3561175–1192, http://doi.org/10.1098/rsta.1998.0216
 ### Scene representation
 - Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng. "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". CoRR 2020; abs/2003.08934.
 - Jianxiong Shen, Adria Ruiz, Antonio Agudo, & Francesc Moreno-Noguer. (2021). Stochastic Neural Radiance Fields: Quantifying Uncertainty in Implicit 3D Representations.
@@ -113,6 +113,7 @@ Hartley Richard I., 1998, Minimizing algebraic error, Phil. Trans. R. Soc. A.356
 - O. Sorkine, D. Cohen-Or, Y. Lipman, M. Alexa, C. Rössl, and H.-P. Seidel. 2004. Laplacian surface editing. In Proceedings of the 2004 Eurographics/ACM SIGGRAPH symposium on Geometry processing (SGP '04). Association for Computing Machinery, New York, NY, USA, 175–184. DOI:https://doi.org/10.1145/1057432.1057456
 - Fernando de Goes and Alonso Martinez. 2019. Mesh wrap based on affine-invariant coordinates. In ACM SIGGRAPH 2019 Talks (SIGGRAPH '19). Association for Computing Machinery, New York, NY, USA, Article 4, 1–2. DOI:https://doi.org/10.1145/3306307.3328162
 - Mullen, P., De Goes, F., Desbrun, M., Cohen-Steiner, D. and Alliez, P. (2010), Signing the Unsigned: Robust Surface Reconstruction from Raw Pointsets. Computer Graphics Forum, 29: 1733–1741. doi: 10.1111/j.1467-8659.2010.01782.x 
+- Wardetzky, M., Mathur, S., Kaelberer, F., & Grinspun, E. (2007). Discrete Laplace operators: No free lunch. In Geometry Processing. The Eurographics Association.
 
 ### Signed Distance Fields
 - Hart, J. Sphere tracing: a geometric method for the antialiased ray tracing of implicit surfaces. The Visual Computer 12, 527–545 (1996). https://doi.org/10.1007/s003710050084

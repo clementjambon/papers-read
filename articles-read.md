@@ -26,6 +26,7 @@ A list of articles I read.
 * "Permutation-Invariant Neural Networks for Reinforcement Learning", David Ha, Yujin Tang, Nov. 18, 2021, https://ai.googleblog.com/2021/11/permutation-invariant-neural-networks.html
 * "Decisiveness in Imitation Learning for Robots", Pete Florence, Corey Lynch,  Nov. 19, 2021, https://ai.googleblog.com/2021/11/decisiveness-in-imitation-learning-for.html
 * "Understanding RMSprop — faster neural network learning", Vitaly Bushaev, Sep. 2, 2018, https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a
+* "Strategies and Tactics for Regression on Imbalanced Data", Yuzhe Yang, May 16, 2021, https://towardsdatascience.com/strategies-and-tactics-for-regression-on-imbalanced-data-61eeb0921fca
 
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/

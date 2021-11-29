@@ -27,6 +27,9 @@ A list of articles I read.
 * "Decisiveness in Imitation Learning for Robots", Pete Florence, Corey Lynch,  Nov. 19, 2021, https://ai.googleblog.com/2021/11/decisiveness-in-imitation-learning-for.html
 * "Understanding RMSprop — faster neural network learning", Vitaly Bushaev, Sep. 2, 2018, https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a
 * "Strategies and Tactics for Regression on Imbalanced Data", Yuzhe Yang, May 16, 2021, https://towardsdatascience.com/strategies-and-tactics-for-regression-on-imbalanced-data-61eeb0921fca
+* "Denoising Sprite Fright", Simon Thommes, Nov. 26, 2021, https://studio.blender.org/blog/denoising-sprite-fright/
+* "Lossless Image Compression in O(n) Time", Dominic Szablewski, Nov. 24, 2021, https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression
+* "Floating-point in mobile shaders", Pete Harris, Nov. 23, 2021, https://solidpixel.github.io/2021/11/23/floats_in_shaders.html
 
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/

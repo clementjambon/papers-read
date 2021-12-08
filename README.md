@@ -37,6 +37,7 @@ Categories are:
 ### Graphs
 - T. N. Kipf, M. Welling. "Semi-Supervised Classification With Graph Convolutional Networks". ICLR 2017.
 - Aditya Grover and Jure Leskovec. 2016. Node2vec: Scalable Feature Learning for Networks. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '16). Association for Computing Machinery, New York, NY, USA, 855–864. DOI:https://doi.org/10.1145/2939672.2939754
+- William L. Hamilton, Rex Ying, and Jure Leskovec. 2017. Inductive representation learning on large graphs. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17). Curran Associates Inc., Red Hook, NY, USA, 1025–1035.
 ### NLP
 - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean. Efficient Estimation of Word Representations in Vector Space. 
 - Tomas Mikolov, Quoc V. Le, & Ilya Sutskever. (2013). Exploiting Similarities among Languages for Machine Translation. 

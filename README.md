@@ -11,6 +11,7 @@ Categories are:
     * [Optimization](#optimization)
     * [Graphs](#graphs)
     * [NLP](#nlp)
+    * [Object detection/segmentation](#object-detection/segmentation)
 * [Topological Data Analysis](#topological-data-analysis)
 * [Optimal Transport](#optimal-transport)
 * [Computer Vision](#computer-vision-)
@@ -22,6 +23,7 @@ Categories are:
     * [Image processing](#image-processing)
     * [Descriptors](#descriptors)
     * [Graph cuts](#graph-cuts)
+    * [Computational Photography](#computational-photography)
 * [Applied Mathematics](#applied-mathematics-)
     * [Dimension reduction](#dimension-reduction)
 * [Similarity Search](#similarity-search)
@@ -38,11 +40,18 @@ Categories are:
 - T. N. Kipf, M. Welling. "Semi-Supervised Classification With Graph Convolutional Networks". ICLR 2017.
 - Aditya Grover and Jure Leskovec. 2016. Node2vec: Scalable Feature Learning for Networks. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '16). Association for Computing Machinery, New York, NY, USA, 855–864. DOI:https://doi.org/10.1145/2939672.2939754
 - William L. Hamilton, Rex Ying, and Jure Leskovec. 2017. Inductive representation learning on large graphs. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17). Curran Associates Inc., Red Hook, NY, USA, 1025–1035.
+- Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, & Yoshua Bengio. (2018). Graph Attention Networks. 
+
 ### NLP
 - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean. Efficient Estimation of Word Representations in Vector Space. 
 - Tomas Mikolov, Quoc V. Le, & Ilya Sutskever. (2013). Exploiting Similarities among Languages for Machine Translation. 
 - Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, & Antoine Bordes. (2018). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data.
 - Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics.
+### Object detection/segmentation
+- Ross Girshick. (2015). Fast R-CNN. 
+- Shaoqing Ren, Kaiming He, Ross Girshick, & Jian Sun. (2016). Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. 
+- Kaiming He, Georgia Gkioxari, Piotr Dollár, & Ross Girshick. (2018). Mask R-CNN. 
+
 
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692
@@ -54,9 +63,12 @@ Categories are:
 ## Computer vision 👀
 ### Geometry
 - Hartley Richard I., 1998, Minimizing algebraic error, Phil. Trans. R. Soc. A.3561175–1192, http://doi.org/10.1098/rsta.1998.0216
+
 ### Scene representation
 - Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng. "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". CoRR 2020; abs/2003.08934.
 - Jianxiong Shen, Adria Ruiz, Antonio Agudo, & Francesc Moreno-Noguer. (2021). Stochastic Neural Radiance Fields: Quantifying Uncertainty in Implicit 3D Representations.
+- Towaki Takikawa and Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, & Sanja Fidler (2021). Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes.
+
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.
 - R. Mur-Artal and J. D. Tardós, "ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras," in IEEE Transactions on Robotics, vol. 33, no. 5, pp. 1255-1262, Oct. 2017, doi: 10.1109/TRO.2017.2705103.
@@ -86,6 +98,9 @@ Categories are:
 
 ### Graphc cuts
 - H. Ishikawa, "Exact optimization for Markov random fields with convex priors" in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 25, no. 10, pp. 1333-1336, Oct. 2003, doi: 10.1109/TPAMI.2003.1233908.
+
+### Computational Photography
+- Samuel W. Hasinoff, Dillon Sharlet, Ryan Geiss, Andrew Adams, Jonathan T. Barron, Florian Kainz, Jiawen Chen, and Marc Levoy. 2016. Burst photography for high dynamic range and low-light imaging on mobile cameras. ACM Trans. Graph. 35, 6, Article 192 (November 2016), 12 pages. DOI:https://doi.org/10.1145/2980179.2980254
 
 ## Applied Mathematics 📐
 - Keener, J. "The Perron–Frobenius Theorem and the Ranking of Football Teams". SIAM Review 1993; 35(1):80-93.
@@ -121,6 +136,8 @@ Categories are:
 - Fernando de Goes and Alonso Martinez. 2019. Mesh wrap based on affine-invariant coordinates. In ACM SIGGRAPH 2019 Talks (SIGGRAPH '19). Association for Computing Machinery, New York, NY, USA, Article 4, 1–2. DOI:https://doi.org/10.1145/3306307.3328162
 - Mullen, P., De Goes, F., Desbrun, M., Cohen-Steiner, D. and Alliez, P. (2010), Signing the Unsigned: Robust Surface Reconstruction from Raw Pointsets. Computer Graphics Forum, 29: 1733–1741. doi: 10.1111/j.1467-8659.2010.01782.x 
 - Wardetzky, M., Mathur, S., Kaelberer, F., & Grinspun, E. (2007). Discrete Laplace operators: No free lunch. In Geometry Processing. The Eurographics Association.
+- Kohlbrenner, M., Finnendahl, U., Djuren, T., & Alexa, M. (2021). Gauss Stylization: Interactive Artistic Mesh Modeling based on Preferred Surface Normals. Computer Graphics Forum.
+- Hsueh-Ti Derek Liu, & Alec Jacobson. (2021). Normal-Driven Spherical Shape Analogies. 
 
 ### Signed Distance Fields
 - Hart, J. Sphere tracing: a geometric method for the antialiased ray tracing of implicit surfaces. The Visual Computer 12, 527–545 (1996). https://doi.org/10.1007/s003710050084

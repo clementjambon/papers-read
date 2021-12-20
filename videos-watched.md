@@ -1,6 +1,12 @@
 # Videos I watched
 A curated list of videos I watched (talks, tutorials, etc.)
 
+## Machine Learning
+- UCL DARK: Learning Structured Models of the World, Thomas Kipf, December 16, 2021, [Video](https://www.youtube.com/watch?v=oLKwRBeBRRA)
+
+## Topological Data Analysis
+- Fast Approximation of Persistence Diagrams with Guarantees, Jules Vidal, October, 2021, [Video](https://www.youtube.com/watch?v=QrgjeZ-pJVQ)
+
 ## Computer Graphics
 - DD2018: Sebastian Aaltonen - GPU based clay simulation and ray tracing tech in Claybook, [https://www.youtube.com/watch?v=Xpf7Ua3UqOA]
 - HPG 2021: Keynote: Alex Evans (NVIDIA), Optimising for Artist Happiness, [https://www.youtube.com/watch?v=eGfX1iWzkh0&t=1222s]

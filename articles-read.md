@@ -31,6 +31,9 @@ A list of articles I read.
 * "Lossless Image Compression in O(n) Time", Dominic Szablewski, Nov. 24, 2021, https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression
 * "Floating-point in mobile shaders", Pete Harris, Nov. 23, 2021, https://solidpixel.github.io/2021/11/23/floats_in_shaders.html
 
+### December
+* "Transformers are Graph Neural Networks", Chaitanya K. Joshi, , The Gradient, 2020, https://thegradient.pub/transformers-are-graph-neural-networks/
+
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/
 

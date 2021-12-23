@@ -12,6 +12,7 @@ Categories are:
     * [Graphs](#graphs)
     * [NLP](#nlp)
     * [Object detection/segmentation](#object-detection/segmentation)
+    * [Transformers](#transformers)
 * [Topological Data Analysis](#topological-data-analysis)
 * [Optimal Transport](#optimal-transport)
 * [Computer Vision](#computer-vision-)
@@ -36,6 +37,7 @@ Categories are:
 ### Optimization
 - Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov. "Dropout: A Simple Way to Prevent Neural Networks from Overfitting". Journal of Machine Learning Research 2014; 15(56):1929-1958.
 - Sebastian Ruder. (2017). An overview of gradient descent optimization algorithms. 
+
 ### Graphs
 - T. N. Kipf, M. Welling. "Semi-Supervised Classification With Graph Convolutional Networks". ICLR 2017.
 - Aditya Grover and Jure Leskovec. 2016. Node2vec: Scalable Feature Learning for Networks. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '16). Association for Computing Machinery, New York, NY, USA, 855–864. DOI:https://doi.org/10.1145/2939672.2939754
@@ -47,11 +49,14 @@ Categories are:
 - Tomas Mikolov, Quoc V. Le, & Ilya Sutskever. (2013). Exploiting Similarities among Languages for Machine Translation. 
 - Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, & Antoine Bordes. (2018). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data.
 - Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics.
+
 ### Object detection/segmentation
 - Ross Girshick. (2015). Fast R-CNN. 
 - Shaoqing Ren, Kaiming He, Ross Girshick, & Jian Sun. (2016). Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. 
 - Kaiming He, Georgia Gkioxari, Piotr Dollár, & Ross Girshick. (2018). Mask R-CNN. 
 
+### Transformers
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A., Kaiser, & Polosukhin, I. (2017). Attention is All you Need. In Advances in Neural Information Processing Systems. Curran Associates, Inc..
 
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692
@@ -68,6 +73,8 @@ Categories are:
 - Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng. "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". CoRR 2020; abs/2003.08934.
 - Jianxiong Shen, Adria Ruiz, Antonio Agudo, & Francesc Moreno-Noguer. (2021). Stochastic Neural Radiance Fields: Quantifying Uncertainty in Implicit 3D Representations.
 - Towaki Takikawa and Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, & Sanja Fidler (2021). Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes.
+- Sitzmann, V., Martel, J., Bergman, A., Lindell, D., & Wetzstein, G. (2020). Implicit Neural Representations with Periodic Activation Functions. In Proc. NeurIPS.
+- Jeong Joon Park and Peter Florence and Julian Straub and Richard A. Newcombe and Steven Lovegrove (2019). DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation. CoRR, abs/1901.05103.
 
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.

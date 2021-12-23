@@ -3,6 +3,15 @@ A curated list of videos I watched (talks, tutorials, etc.)
 
 ## Machine Learning
 - UCL DARK: Learning Structured Models of the World, Thomas Kipf, December 16, 2021, [Video](https://www.youtube.com/watch?v=oLKwRBeBRRA)
+- TUM AI Lecture Series: Implicit Neural Scene Representations, Vincent Sitzmann, [Video](https://www.youtube.com/watch?v=__F9CCqbWQk)
+
+### AMMI Geometric Deep Learning Course
+- Lecture 1 (Introduction), Michael Bronstein, [Video](https://youtu.be/PtA0lg_e5nA)
+- Lecture 2 (Learning in High Dimensions), Joan Bruna, [Video](https://youtu.be/4RmpSvQ2LL0)
+- Lecture 3 (Geometric Priors I), Taco Cohen, [Video](https://youtu.be/fWBrupgU4X8)
+- Lecture 4 (Geometric Priors II), Joan Bruna, [Video](https://youtu.be/ERL17gbbSwo)
+- Lecture 5 (Graphs & Sets I), Petar Veličković, [Video](https://youtu.be/E_Wweuk5iqA)
+- Lecture 6 (Graphs & Sets II), Petar Veličković, [Video](https://youtu.be/i79ewWQiUX4)
 
 ## Topological Data Analysis
 - Fast Approximation of Persistence Diagrams with Guarantees, Jules Vidal, October, 2021, [Video](https://www.youtube.com/watch?v=QrgjeZ-pJVQ)

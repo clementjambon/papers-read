@@ -13,6 +13,7 @@ Categories are:
     * [NLP](#nlp)
     * [Object detection/segmentation](#object-detection/segmentation)
     * [Transformers](#transformers)
+    * [Generative Models](#generative-models)
 * [Topological Data Analysis](#topological-data-analysis)
 * [Optimal Transport](#optimal-transport)
 * [Computer Vision](#computer-vision-)
@@ -33,6 +34,7 @@ Categories are:
     * [Geometry Processing](#geometry-processing)
     * [Signed Distance Fields](#signed-distance-fields)
     * [Procedural Generation](#procedural-generation)
+    * [Shading](#shading)
 ## Machine Learning
 ### Optimization
 - Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov. "Dropout: A Simple Way to Prevent Neural Networks from Overfitting". Journal of Machine Learning Research 2014; 15(56):1929-1958.
@@ -57,6 +59,11 @@ Categories are:
 
 ### Transformers
 - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A., Kaiser, & Polosukhin, I. (2017). Attention is All you Need. In Advances in Neural Information Processing Systems. Curran Associates, Inc..
+
+### Generative Models
+- Diederik P Kingma, & Max Welling. (2014). Auto-Encoding Variational Bayes. 
+- Thomas Kipf, Elise van der Pol, & Max Welling. (2020). Contrastive Learning of Structured World Models.
+- Ian Goodfellow. (2017). NIPS 2016 Tutorial: Generative Adversarial Networks.  
 
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692
@@ -155,4 +162,9 @@ Categories are:
 ### Procedural Generation
 - Yoav I. H. Parish and Pascal Müller. 2001. Procedural modeling of cities. In Proceedings of the 28th annual conference on Computer graphics and interactive techniques (SIGGRAPH '01). Association for Computing Machinery, New York, NY, USA, 301–308. DOI:https://doi.org/10.1145/383259.383292
 - Guoning Chen, Gregory Esch, Peter Wonka, Pascal Müller, and Eugene Zhang. 2008. Interactive procedural street modeling. ACM Trans. Graph. 27, 3 (August 2008), 1–10. DOI:https://doi.org/10.1145/1360612.1360702
+
+### Shading
+- Barla, P., Thollot, J., & Markosian, L. (2006). X-Toon: An extended toon shader. In International Symposium on Non-Photorealistic Animation and Rendering (NPAR'06). ACM.
+- Snyder, J. (1996). Area Light Sources for Real-Time Graphics.
+- Eric Heitz, Jonathan Dupuy, Stephen Hill, and David Neubelt. 2016. Real-time polygonal-light shading with linearly transformed cosines. ACM Trans. Graph. 35, 4, Article 41 (July 2016), 8 pages. DOI:https://doi.org/10.1145/2897824.2925895
   

@@ -64,6 +64,7 @@ Categories are:
 - Diederik P Kingma, & Max Welling. (2014). Auto-Encoding Variational Bayes. 
 - Thomas Kipf, Elise van der Pol, & Max Welling. (2020). Contrastive Learning of Structured World Models.
 - Ian Goodfellow. (2017). NIPS 2016 Tutorial: Generative Adversarial Networks.  
+- David Ha and Jürgen Schmidhuber (2018). World Models. CoRR, abs/1803.10122.
 
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692
@@ -82,6 +83,7 @@ Categories are:
 - Towaki Takikawa and Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, & Sanja Fidler (2021). Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes.
 - Sitzmann, V., Martel, J., Bergman, A., Lindell, D., & Wetzstein, G. (2020). Implicit Neural Representations with Periodic Activation Functions. In Proc. NeurIPS.
 - Jeong Joon Park and Peter Florence and Julian Straub and Richard A. Newcombe and Steven Lovegrove (2019). DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation. CoRR, abs/1901.05103.
+- Lindell, D., Van Veen, D., Park, J., & Wetzstein, G. (2021). BACON: Band-limited coordinate networks for multiscale scene representation.
 
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.

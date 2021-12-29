@@ -33,7 +33,11 @@ A list of articles I read.
 
 ### December
 * "Transformers are Graph Neural Networks", Chaitanya K. Joshi, The Gradient, 2020, https://thegradient.pub/transformers-are-graph-neural-networks/
-* A General Overview of What Happens Before main(), Phillip Johnston, April 8, 2019,  https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/
+* "A General Overview of What Happens Before `main()`", Phillip Johnston, April 8, 2019,  https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/
+* "A quick introduction to Slow Feature Analysis", Hlynur Davíð Hlynsson, Oct. 21, 2017, https://towardsdatascience.com/a-brief-introduction-to-slow-feature-analysis-18c901bc2a58
+* "Tutorial: Transformers I - Introduction", S. Prince, June 14, 2021, https://www.borealisai.com/en/blog/tutorial-14-transformers-i-introduction/
+* "Tutorial: Transformers II - Extensions", S. Prince, July 8, 2021, https://www.borealisai.com/en/blog/tutorial-16-transformers-ii-extensions/
+* "Tutorial: Transformers II - Training", P. Xu & S. Prince, Aug. 6, 2021, https://www.borealisai.com/en/blog/tutorial-17-transformers-iii-training/
 
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/

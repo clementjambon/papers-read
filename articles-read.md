@@ -37,7 +37,8 @@ A list of articles I read.
 * "A quick introduction to Slow Feature Analysis", Hlynur Davíð Hlynsson, Oct. 21, 2017, https://towardsdatascience.com/a-brief-introduction-to-slow-feature-analysis-18c901bc2a58
 * "Tutorial: Transformers I - Introduction", S. Prince, June 14, 2021, https://www.borealisai.com/en/blog/tutorial-14-transformers-i-introduction/
 * "Tutorial: Transformers II - Extensions", S. Prince, July 8, 2021, https://www.borealisai.com/en/blog/tutorial-16-transformers-ii-extensions/
-* "Tutorial: Transformers II - Training", P. Xu & S. Prince, Aug. 6, 2021, https://www.borealisai.com/en/blog/tutorial-17-transformers-iii-training/
+* "Tutorial: Transformers III - Training", P. Xu & S. Prince, Aug. 6, 2021, https://www.borealisai.com/en/blog/tutorial-17-transformers-iii-training/
+* "Novel approaches for fast rendering of neural coordinate-based representations", Christian Reiser, Sep. 9, 2021, https://autonomousvision.github.io/kilonerf/
 
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/

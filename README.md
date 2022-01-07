@@ -84,6 +84,8 @@ Categories are:
 - Sitzmann, V., Martel, J., Bergman, A., Lindell, D., & Wetzstein, G. (2020). Implicit Neural Representations with Periodic Activation Functions. In Proc. NeurIPS.
 - Jeong Joon Park and Peter Florence and Julian Straub and Richard A. Newcombe and Steven Lovegrove (2019). DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation. CoRR, abs/1901.05103.
 - Lindell, D., Van Veen, D., Park, J., & Wetzstein, G. (2021). BACON: Band-limited coordinate networks for multiscale scene representation.
+- Sitzmann, V., Zollhöfer, M., & Wetzstein, G. (2019). Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations. In Advances in Neural Information Processing Systems.
+- Sitzmann, V., Chan, E., Tucker, R., Snavely, N., & Wetzstein, G. (2020). MetaSDF: Meta-Learning Signed Distance Functions. In Proc. NeurIPS.
 
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.

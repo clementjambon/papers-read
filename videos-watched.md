@@ -12,6 +12,9 @@ A curated list of videos I watched (talks, tutorials, etc.)
 - Lecture 4 (Geometric Priors II), Joan Bruna, [Video](https://youtu.be/ERL17gbbSwo)
 - Lecture 5 (Graphs & Sets I), Petar Veličković, [Video](https://youtu.be/E_Wweuk5iqA)
 - Lecture 6 (Graphs & Sets II), Petar Veličković, [Video](https://youtu.be/i79ewWQiUX4)
+- Lecture 7 (Grids), Joan Bruna, [Video](https://youtu.be/O2-I0y8ACj4)
+- Lecture 8 (Groups & Homogeneous spaces), Taco Cohen, [Video](https://youtu.be/kee16fXU8h0)
+- Lecture 9 (Manifolds & Meshes), Michael Bronstein, [Video](https://youtu.be/WVTrWGiZF8E)
 
 ## Topological Data Analysis
 - Fast Approximation of Persistence Diagrams with Guarantees, Jules Vidal, October, 2021, [Video](https://www.youtube.com/watch?v=QrgjeZ-pJVQ)

@@ -51,6 +51,7 @@ Categories are:
 - Tomas Mikolov, Quoc V. Le, & Ilya Sutskever. (2013). Exploiting Similarities among Languages for Machine Translation. 
 - Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, & Antoine Bordes. (2018). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data.
 - Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics.
+- Alec Radford and Jong Wook Kim and Chris Hallacy and Aditya Ramesh and Gabriel Goh and Sandhini Agarwal and Girish Sastry and Amanda Askell and Pamela Mishkin and Jack Clark and Gretchen Krueger and Ilya Sutskever (2021). Learning Transferable Visual Models From Natural Language Supervision. CoRR, abs/2103.00020.
 
 ### Object detection/segmentation
 - Ross Girshick. (2015). Fast R-CNN. 

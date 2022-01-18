@@ -43,3 +43,6 @@ A curated list of videos I watched (talks, tutorials, etc.)
 
 ## Computer Vision
 - Michal Irani - Plane + Parallax, [https://www.youtube.com/watch?v=CetSbajps88]
+
+## Computer architecture
+- Graphcore Colossus Mk2 IPU, Hot Chips 33, Aug. 24 2021, Simon Knowles, [Video](https://youtu.be/TA4WHnuXCsc)

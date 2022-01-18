@@ -66,6 +66,9 @@ Categories are:
 - Thomas Kipf, Elise van der Pol, & Max Welling. (2020). Contrastive Learning of Structured World Models.
 - Ian Goodfellow. (2017). NIPS 2016 Tutorial: Generative Adversarial Networks.  
 - David Ha and Jürgen Schmidhuber (2018). World Models. CoRR, abs/1803.10122.
+- Chan, E., Monteiro, M., Kellnhofer, P., Wu, J., & Wetzstein, G. (2020). pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis. In arXiv.
+- Eric R. Chan, Connor Z. Lin, Matthew A. Chan, Koki Nagano, Boxiao Pan, Shalini De Mello, Orazio Gallo, Leonidas Guibas, Jonathan Tremblay, Sameh Khamis, Tero Karras, & Gordon Wetzstein (2021). Efficient Geometry-aware 3D Generative Adversarial Networks. In arXiv.
+
 
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692
@@ -87,6 +90,7 @@ Categories are:
 - Lindell, D., Van Veen, D., Park, J., & Wetzstein, G. (2021). BACON: Band-limited coordinate networks for multiscale scene representation.
 - Sitzmann, V., Zollhöfer, M., & Wetzstein, G. (2019). Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations. In Advances in Neural Information Processing Systems.
 - Sitzmann, V., Chan, E., Tucker, R., Snavely, N., & Wetzstein, G. (2020). MetaSDF: Meta-Learning Signed Distance Functions. In Proc. NeurIPS.
+- Kopanas, G., Philip, J., Leimkhler, T., & Drettakis, G. (2021). Point-Based Neural Rendering with Per-View Optimization. Computer Graphics Forum (Proceedings of the Eurographics Symposium on Rendering), 40(4).
 
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.

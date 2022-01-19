@@ -40,6 +40,11 @@ A list of articles I read.
 * "Tutorial: Transformers III - Training", P. Xu & S. Prince, Aug. 6, 2021, https://www.borealisai.com/en/blog/tutorial-17-transformers-iii-training/
 * "Novel approaches for fast rendering of neural coordinate-based representations", Christian Reiser, Sep. 9, 2021, https://autonomousvision.github.io/kilonerf/
 
+## 2022
+
+### January
+* "Uncovering How the Spotify Algorithm Works", Hucker Marius, Nov. 23, 2021, https://towardsdatascience.com/uncovering-how-the-spotify-algorithm-works-4d3c021ebc0
+
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/
 

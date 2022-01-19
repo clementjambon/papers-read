@@ -68,6 +68,7 @@ Categories are:
 - David Ha and Jürgen Schmidhuber (2018). World Models. CoRR, abs/1803.10122.
 - Chan, E., Monteiro, M., Kellnhofer, P., Wu, J., & Wetzstein, G. (2020). pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis. In arXiv.
 - Eric R. Chan, Connor Z. Lin, Matthew A. Chan, Koki Nagano, Boxiao Pan, Shalini De Mello, Orazio Gallo, Leonidas Guibas, Jonathan Tremblay, Sameh Khamis, Tero Karras, & Gordon Wetzstein (2021). Efficient Geometry-aware 3D Generative Adversarial Networks. In arXiv.
+- Michael Niemeyer, & Andreas Geiger (2021). GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields. In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR).
 
 
 ## Topological Data Analysis

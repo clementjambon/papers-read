@@ -44,6 +44,9 @@ A list of articles I read.
 
 ### January
 * "Uncovering How the Spotify Algorithm Works", Hucker Marius, Nov. 23, 2021, https://towardsdatascience.com/uncovering-how-the-spotify-algorithm-works-4d3c021ebc0
+* "Shapley–Folkman lemma", Wikipedia, https://en.m.wikipedia.org/wiki/Shapley%E2%80%93Folkman_lemma
+* "The Perlin Problem: Moving Past Square Noise", NoisePosti.ng, https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html?s=09
+* "PBR - Theory", Learn OpenGL, https://learnopengl.com/PBR/Theory
 
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/

@@ -35,6 +35,7 @@ Categories are:
     * [Signed Distance Fields](#signed-distance-fields)
     * [Procedural Generation](#procedural-generation)
     * [Shading](#shading)
+* [Data Management Systems](#data-management-systems)
 ## Machine Learning
 ### Optimization
 - Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov. "Dropout: A Simple Way to Prevent Neural Networks from Overfitting". Journal of Machine Learning Research 2014; 15(56):1929-1958.
@@ -178,3 +179,5 @@ Categories are:
 - Snyder, J. (1996). Area Light Sources for Real-Time Graphics.
 - Eric Heitz, Jonathan Dupuy, Stephen Hill, and David Neubelt. 2016. Real-time polygonal-light shading with linearly transformed cosines. ACM Trans. Graph. 35, 4, Article 41 (July 2016), 8 pages. DOI:https://doi.org/10.1145/2897824.2925895
   
+## Data Management Systems
+- Jeffrey Dean and Sanjay Ghemawat. 2008. MapReduce: simplified data processing on large clusters. Commun. ACM 51, 1 (January 2008), 107–113. DOI:https://doi.org/10.1145/1327452.1327492

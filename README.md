@@ -14,6 +14,7 @@ Categories are:
     * [Object detection/segmentation](#object-detection/segmentation)
     * [Transformers](#transformers)
     * [Generative Models](#generative-models)
+    * [Self-supervised Learning](#self-supervised-learning)
 * [Topological Data Analysis](#topological-data-analysis)
 * [Optimal Transport](#optimal-transport)
 * [Computer Vision](#computer-vision-)
@@ -71,6 +72,8 @@ Categories are:
 - Eric R. Chan, Connor Z. Lin, Matthew A. Chan, Koki Nagano, Boxiao Pan, Shalini De Mello, Orazio Gallo, Leonidas Guibas, Jonathan Tremblay, Sameh Khamis, Tero Karras, & Gordon Wetzstein (2021). Efficient Geometry-aware 3D Generative Adversarial Networks. In arXiv.
 - Michael Niemeyer, & Andreas Geiger (2021). GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields. In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR).
 
+### Self-supervised Learning
+- Alexei Baevski, Wei-Ning Hsu, Qiantong Xu, Arun Babu, Jiatao Gu, Michael Auli. 2022. Data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language.
 
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692

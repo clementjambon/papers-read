@@ -178,6 +178,7 @@ Categories are:
 - Barla, P., Thollot, J., & Markosian, L. (2006). X-Toon: An extended toon shader. In International Symposium on Non-Photorealistic Animation and Rendering (NPAR'06). ACM.
 - Snyder, J. (1996). Area Light Sources for Real-Time Graphics.
 - Eric Heitz, Jonathan Dupuy, Stephen Hill, and David Neubelt. 2016. Real-time polygonal-light shading with linearly transformed cosines. ACM Trans. Graph. 35, 4, Article 41 (July 2016), 8 pages. DOI:https://doi.org/10.1145/2897824.2925895
+- Naty Hoffman, "Background: Physics and Math of Shading", part of “Physically Based Shading in Theory and Practice,” SIGGRAPH 2015 Course Notes
   
 ## Data Management Systems
 - Jeffrey Dean and Sanjay Ghemawat. 2008. MapReduce: simplified data processing on large clusters. Commun. ACM 51, 1 (January 2008), 107–113. DOI:https://doi.org/10.1145/1327452.1327492

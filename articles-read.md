@@ -47,6 +47,8 @@ A list of articles I read.
 * "Shapley–Folkman lemma", Wikipedia, https://en.m.wikipedia.org/wiki/Shapley%E2%80%93Folkman_lemma
 * "The Perlin Problem: Moving Past Square Noise", NoisePosti.ng, https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html?s=09
 * "PBR - Theory", Learn OpenGL, https://learnopengl.com/PBR/Theory
+* "Self-supervised learning: The dark matter of intelligence", Yann LeCun, Ishan Misra, March 4, 2021, https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/
+* "Ray Tracing Denoising", Alain Galvan, July 10, 2020, https://alain.xyz/blog/ray-tracing-denoising
 
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/

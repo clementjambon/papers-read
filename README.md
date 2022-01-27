@@ -41,6 +41,7 @@ Categories are:
 ### Optimization
 - Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov. "Dropout: A Simple Way to Prevent Neural Networks from Overfitting". Journal of Machine Learning Research 2014; 15(56):1929-1958.
 - Sebastian Ruder. (2017). An overview of gradient descent optimization algorithms. 
+- Tim Salimans and Diederik P. Kingma. 2016. Weight normalization: a simple reparameterization to accelerate training of deep neural networks. In Proceedings of the 30th International Conference on Neural Information Processing Systems (NIPS'16). Curran Associates Inc., Red Hook, NY, USA, 901–909.
 
 ### Graphs
 - T. N. Kipf, M. Welling. "Semi-Supervised Classification With Graph Convolutional Networks". ICLR 2017.
@@ -48,6 +49,7 @@ Categories are:
 - William L. Hamilton, Rex Ying, and Jure Leskovec. 2017. Inductive representation learning on large graphs. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17). Curran Associates Inc., Red Hook, NY, USA, 1025–1035.
 - Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, & Yoshua Bengio. (2018). Graph Attention Networks. 
 - George Dasoulas and Johannes F. Lutzeyer and Michalis Vazirgiannis (2021). Learning Parametrised Graph Shift Operators. CoRR, abs/2101.10050.
+- Creţu, AM., Monti, F., Marrone, S. et al. Interaction data are identifiable even across long periods of time. Nat Commun 13, 313 (2022). https://doi.org/10.1038/s41467-021-27714-6
 
 ### NLP
 - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean. Efficient Estimation of Word Representations in Vector Space. 

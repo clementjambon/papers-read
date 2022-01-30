@@ -99,6 +99,7 @@ Categories are:
 - Sitzmann, V., Zollhöfer, M., & Wetzstein, G. (2019). Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations. In Advances in Neural Information Processing Systems.
 - Sitzmann, V., Chan, E., Tucker, R., Snavely, N., & Wetzstein, G. (2020). MetaSDF: Meta-Learning Signed Distance Functions. In Proc. NeurIPS.
 - Kopanas, G., Philip, J., Leimkhler, T., & Drettakis, G. (2021). Point-Based Neural Rendering with Per-View Optimization. Computer Graphics Forum (Proceedings of the Eurographics Symposium on Rendering), 40(4).
+- Gropp, A., Yariv, L., Haim, N., Atzmon, M., & Lipman, Y. (2020). Implicit Geometric Regularization for Learning Shapes.
 
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.

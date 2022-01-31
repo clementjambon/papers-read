@@ -85,6 +85,10 @@ Categories are:
 ## Optimal Transport
 - Marco Cuturi. 2013. Sinkhorn distances: lightspeed computation of optimal transport. In Proceedings of the 26th International Conference on Neural Information Processing Systems - Volume 2 (NIPS'13). Curran Associates Inc., Red Hook, NY, USA, 2292–2300.
 
+## Shape Analysis
+- R. Q. Charles, H. Su, M. Kaichun and L. J. Guibas, "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation," 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 77-85, doi: 10.1109/CVPR.2017.16.
+- Qi, C., Yi, L., Su, H., & Guibas, L. (2017). PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. arXiv preprint arXiv:1706.02413.
+
 ## Computer vision 👀
 ### Geometry
 - Hartley Richard I., 1998, Minimizing algebraic error, Phil. Trans. R. Soc. A.3561175–1192, http://doi.org/10.1098/rsta.1998.0216

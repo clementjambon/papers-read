@@ -50,6 +50,8 @@ A list of articles I read.
 * "Self-supervised learning: The dark matter of intelligence", Yann LeCun, Ishan Misra, March 4, 2021, https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/
 * "Ray Tracing Denoising", Alain Galvan, July 10, 2020, https://alain.xyz/blog/ray-tracing-denoising
 * "Accurate Alpha Matting for Portrait Mode Selfies on Pixel 6", Sergio Orts Escolano and Jana Ehman, Jan. 24, 2022, https://ai.googleblog.com/2022/01/accurate-alpha-matting-for-portrait.html
+* "Controlling Neural Networks with Rule Representations", Sungyong Seo and Sercan O. Arik, Jan. 28, 2022, https://ai.googleblog.com/2022/01/controlling-neural-networks-with-rule.html
+* "What does 2022 hold for Geometric & Graph ML?", Michael Bronstein, https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc
 
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/

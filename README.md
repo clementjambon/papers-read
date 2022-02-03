@@ -15,6 +15,7 @@ Categories are:
     * [Transformers](#transformers)
     * [Generative Models](#generative-models)
     * [Self-supervised Learning](#self-supervised-learning)
+    * [Geometric Deep Learning](#geometric-deep-learning)
 * [Topological Data Analysis](#topological-data-analysis)
 * [Optimal Transport](#optimal-transport)
 * [Computer Vision](#computer-vision-)
@@ -77,6 +78,9 @@ Categories are:
 
 ### Self-supervised Learning
 - Alexei Baevski, Wei-Ning Hsu, Qiantong Xu, Arun Babu, Jiatao Gu, Michael Auli. 2022. Data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language.
+
+### Geometric Deep Learning
+- Miltiadis Kofinas, Naveen Shankar Nagaraja, & Efstratios Gavves (2021). Roto-translated Local Coordinate Frames For Interacting Dynamical Systems. In Advances in Neural Information Processing Systems.
 
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692

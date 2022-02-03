@@ -53,6 +53,9 @@ A list of articles I read.
 * "Controlling Neural Networks with Rule Representations", Sungyong Seo and Sercan O. Arik, Jan. 28, 2022, https://ai.googleblog.com/2022/01/controlling-neural-networks-with-rule.html
 * "What does 2022 hold for Geometric & Graph ML?", Michael Bronstein, https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc
 
+### February
+* "Making the Web Faster with HTTP 2.0", Ilya Grigorik, Dec. 3, 2013, https://queue.acm.org/detail.cfm?id=2555617
+
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/
 

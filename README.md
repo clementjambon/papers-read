@@ -16,6 +16,7 @@ Categories are:
     * [Generative Models](#generative-models)
     * [Self-supervised Learning](#self-supervised-learning)
     * [Geometric Deep Learning](#geometric-deep-learning)
+    * [Reinforcement Learning](#reinforcement-learning)
 * [Topological Data Analysis](#topological-data-analysis)
 * [Optimal Transport](#optimal-transport)
 * [Computer Vision](#computer-vision-)
@@ -32,11 +33,13 @@ Categories are:
     * [Dimension reduction](#dimension-reduction)
 * [Similarity Search](#similarity-search)
 * [Computer Graphics](#computer-graphics)
+    * [Rendering](#rendering)
     * [Compression](#compression)
     * [Geometry Processing](#geometry-processing)
     * [Signed Distance Fields](#signed-distance-fields)
     * [Procedural Generation](#procedural-generation)
     * [Shading](#shading)
+    * [Global Illumination](#global-illuminations)
 * [Data Management Systems](#data-management-systems)
 ## Machine Learning
 ### Optimization
@@ -81,6 +84,9 @@ Categories are:
 
 ### Geometric Deep Learning
 - Miltiadis Kofinas, Naveen Shankar Nagaraja, & Efstratios Gavves (2021). Roto-translated Local Coordinate Frames For Interacting Dynamical Systems. In Advances in Neural Information Processing Systems.
+
+### Reinforcement Learning
+- Wurman, P.R., Barrett, S., Kawamoto, K. et al. Outracing champion Gran Turismo drivers with deep reinforcement learning. Nature 602, 223–228 (2022). https://doi.org/10.1038/s41586-021-04357-7
 
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692
@@ -163,6 +169,9 @@ Categories are:
 
 ## Computer Graphics
 
+### Rendering
+- Viktor Kämpe, Erik Sintorn, and Ulf Assarsson. 2013. High resolution sparse voxel DAGs. ACM Trans. Graph. 32, 4, Article 101 (July 2013), 13 pages. DOI:https://doi.org/10.1145/2461912.2462024
+
 ### Compression
 - Schuster, K, Trettner, P, Schmitz, P, Schakib, J, Kobbelt, LCompression and Rendering of Textured Point Clouds via Sparse Coding. In High-Performance Graphics - Symposium Papers 2021 . The Eurographics Association.
 
@@ -194,6 +203,10 @@ Categories are:
 - Snyder, J. (1996). Area Light Sources for Real-Time Graphics.
 - Eric Heitz, Jonathan Dupuy, Stephen Hill, and David Neubelt. 2016. Real-time polygonal-light shading with linearly transformed cosines. ACM Trans. Graph. 35, 4, Article 41 (July 2016), 8 pages. DOI:https://doi.org/10.1145/2897824.2925895
 - Naty Hoffman, "Background: Physics and Math of Shading", part of “Physically Based Shading in Theory and Practice,” SIGGRAPH 2015 Course Notes
+- Olsson, O., Billeter, M., & Assarsson, U. (2012). Clustered Deferred and Forward Shading. In Eurographics/ ACM SIGGRAPH Symposium on High Performance Graphics. The Eurographics Association.
+
+### Global Illumination
+- Ritschel T, S.P. (2009). Approximating dynamic global illumination in image space. In Proc. ACM i3D.
   
 ## Data Management Systems
 - Jeffrey Dean and Sanjay Ghemawat. 2008. MapReduce: simplified data processing on large clusters. Commun. ACM 51, 1 (January 2008), 107–113. DOI:https://doi.org/10.1145/1327452.1327492

@@ -7,3 +7,5 @@
 
 ## 2022
 * "Bandit Algorithms", Lattimore, Tor, and Csaba Szepesvári, Cambridge University Press, 2020. [Chapters 4,5, 7, 11]
+* "Reinforcement Learning, second edition: An Introduction", Richard S. Sutton and Andrew G. Barto, Bradford Books, 2018. [Chapters 5, 6]
+* "Deep Learning", Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press, 2016. [Chapter 17]

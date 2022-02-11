@@ -4,6 +4,7 @@ A curated list of videos I watched (talks, tutorials, etc.)
 ## Machine Learning
 - UCL DARK: Learning Structured Models of the World, Thomas Kipf, December 16, 2021, [Video](https://www.youtube.com/watch?v=oLKwRBeBRRA)
 - TUM AI Lecture Series: Implicit Neural Scene Representations, Vincent Sitzmann, [Video](https://www.youtube.com/watch?v=__F9CCqbWQk)
+- ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein, [Video](https://www.youtube.com/watch?v=w6Pw4MOzMuo)
 
 ### AMMI Geometric Deep Learning Course
 - Lecture 1 (Introduction), Michael Bronstein, [Video](https://youtu.be/PtA0lg_e5nA)
@@ -31,7 +32,7 @@ A curated list of videos I watched (talks, tutorials, etc.)
 - Compression and Rendering of Textured Point Clouds via Sparse Coding, HPG 2021, July 7, 2021, [Video](https://www.youtube.com/watch?v=L8IfdFokzDA&t=7290s)
 - Shape Approximation & Applications, SGP2021 Graduate School, Tamy Boubekeur, [Video](https://www.youtube.com/watch?v=CjBTg1eXZz8)
 - Sand Rendering in Journey, John Edwards, GDC 2013, [Video](https://www.youtube.com/watch?v=wt2yYnBRD3U)
-- ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein, [Video](https://www.youtube.com/watch?v=w6Pw4MOzMuo)
+- PlayStation 3 Emulation, Alexandro Sanchez, FOSDEM'22, [Video](https://www.youtube.com/watch?v=4joCMfTPP4M), [Slides](https://fosdem.org/2022/schedule/event/ps3/attachments/slides/5257/export/events/attachments/ps3/slides/5257/slides.pdf)
 
 ### Keenan Crane - Discrete Differential Geometry
 - Lecture 1: Overview (Discrete Differential Geometry), [https://www.youtube.com/watch?v=8JCR6z3GLVI]

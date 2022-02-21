@@ -56,7 +56,8 @@ A list of articles I read.
 ### February
 * "Making the Web Faster with HTTP 2.0", Ilya Grigorik, Dec. 3, 2013, https://queue.acm.org/detail.cfm?id=2555617
 * "SIMD in the GPU world", Rastergrid, Feb. 4, 2022, https://www.rastergrid.com/blog/gpu-tech/2022/02/simd-in-the-gpu-world/
-* "Unlocking the Full Potential of Datacenter ML Accelerators with Platform-Aware Neural Architecture Search", Sheng Li and Norman P. Jouppi, Feb. 8, 2022, https://ai.googleblog.com/2022/02/unlocking-full-potential-of-datacenter.html
+* "Unlocking the Full Potential of Datacenter ML Accelerators with Platform-Aware Neural Architecture Search", Sheng Li and Norman P. Jouppi, Feb. 8, 2022, https://ai.googleblog.com/2022/02/unlocking-full-potential-of-datacenter.html   
+* "A Review of Shader Languages", Alain Galvan, Feb. 13, 2022, https://alain.xyz/blog/a-review-of-shader-languages
 
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/

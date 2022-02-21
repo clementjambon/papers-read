@@ -87,6 +87,9 @@ Categories are:
 
 ### Reinforcement Learning
 - Wurman, P.R., Barrett, S., Kawamoto, K. et al. Outracing champion Gran Turismo drivers with deep reinforcement learning. Nature 602, 223–228 (2022). https://doi.org/10.1038/s41586-021-04357-7
+- Silver, D., Huang, A., Maddison, C. et al. Mastering the game of Go with deep neural networks and tree search. Nature 529, 484–489 (2016). https://doi.org/10.1038/nature16961
+- Silver, D., Schrittwieser, J., Simonyan, K. et al. Mastering the game of Go without human knowledge. Nature 550, 354–359 (2017). https://doi.org/10.1038/nature24270
+- David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, & Demis Hassabis (2018). A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play. Science, 362(6419), 1140-1144.
 
 ## Topological Data Analysis
 - Mathieu Carrière, Steve Y. Oudot, and Maks Ovsjanikov. 2015. Stable topological signatures for points on 3D shapes. In Proceedings of the Eurographics Symposium on Geometry Processing (SGP '15). Eurographics Association, Goslar, DEU, 1–12. DOI:https://doi.org/10.1111/cgf.12692
@@ -114,6 +117,8 @@ Categories are:
 - Sitzmann, V., Chan, E., Tucker, R., Snavely, N., & Wetzstein, G. (2020). MetaSDF: Meta-Learning Signed Distance Functions. In Proc. NeurIPS.
 - Kopanas, G., Philip, J., Leimkhler, T., & Drettakis, G. (2021). Point-Based Neural Rendering with Per-View Optimization. Computer Graphics Forum (Proceedings of the Eurographics Symposium on Rendering), 40(4).
 - Gropp, A., Yariv, L., Haim, N., Atzmon, M., & Lipman, Y. (2020). Implicit Geometric Regularization for Learning Shapes.
+- Jonathan T. Barron, Ben Mildenhall, Matthew Tancik, Peter Hedman, Ricardo Martin-Brualla, & Pratul P. Srinivasan. (2021). Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields. 
+- Matthew Tancik, Vincent Casser, Xinchen Yan, Sabeek Pradhan, Ben Mildenhall, Pratul P. Srinivasan, Jonathan T. Barron, & Henrik Kretzschmar. (2022). Block-NeRF: Scalable Large Scene Neural View Synthesis. 
 
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.

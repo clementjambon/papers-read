@@ -119,6 +119,7 @@ Categories are:
 - Gropp, A., Yariv, L., Haim, N., Atzmon, M., & Lipman, Y. (2020). Implicit Geometric Regularization for Learning Shapes.
 - Jonathan T. Barron, Ben Mildenhall, Matthew Tancik, Peter Hedman, Ricardo Martin-Brualla, & Pratul P. Srinivasan. (2021). Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields. 
 - Matthew Tancik, Vincent Casser, Xinchen Yan, Sabeek Pradhan, Ben Mildenhall, Pratul P. Srinivasan, Jonathan T. Barron, & Henrik Kretzschmar. (2022). Block-NeRF: Scalable Large Scene Neural View Synthesis. 
+- Thomas Müller, Alex Evans, Christoph Schied, & Alexander Keller (2022). Instant Neural Graphics Primitives with a Multiresolution Hash Encoding. arXiv:2201.05989.
 
 ### SLAM
 - R. Mur-Artal, J. M. M. Montiel and J. D. Tardós, "ORB-SLAM: A Versatile and Accurate Monocular SLAM System," in IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, Oct. 2015, doi: 10.1109/TRO.2015.2463671.

@@ -37,6 +37,7 @@ A curated list of videos I watched (talks, tutorials, etc.)
 - Stochastic All the Things – Raytracing in Hybrid Real-Time Rendering, DD 2018, Tomasz Stachowiak, [Video](https://youtu.be/YwV4GOBdFXo)
 - Radiance Caching for Real-Time Global Illumination, SIGGRAPH 2021 Advances in Real-Time Rendering in Games, Daniel Wright, [Video](https://youtu.be/2GYXuM10riw)
 - Dynamic Diffuse Global Illumination, GTC 2019, Morgan McGuire, [Video](https://developer.nvidia.com/video/gdc-19/dynamic_diffuse_global_illumination)
+- Are we done with ray tracing?, SIGGRAPH 2019 Courses, [Video](https://dl.acm.org/doi/10.1145/3305366.3329896)
 
 ### Keenan Crane - Discrete Differential Geometry
 - Lecture 1: Overview (Discrete Differential Geometry), [https://www.youtube.com/watch?v=8JCR6z3GLVI]

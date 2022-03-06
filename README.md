@@ -40,6 +40,7 @@ Categories are:
     * [Procedural Generation](#procedural-generation)
     * [Shading](#shading)
     * [Global Illumination](#global-illuminations)
+    * [Physical Simulation](#physical-simulation)
 * [Data Management Systems](#data-management-systems)
 ## Machine Learning
 ### Optimization
@@ -213,6 +214,12 @@ Categories are:
 
 ### Global Illumination
 - Ritschel T, S.P. (2009). Approximating dynamic global illumination in image space. In Proc. ACM i3D.
+- T. Ritschel, T. Engelhardt, T. Grosch, H.-P. Seidel, J. Kautz, and C. Dachsbacher. 2009. Micro-rendering for scalable, parallel final gathering. ACM Trans. Graph. 28, 5 (December 2009), 1–8. DOI:https://doi.org/10.1145/1618452.1618478
+- Christensen, P.H., & Pixar (2008). Point-Based Approximate Color Bleeding.
+
+### Physical Simulation
+- Miles Macklin, Matthias Müller, Nuttapong Chentanez, and Tae-Yong Kim. 2014. Unified particle physics for real-time applications. ACM Trans. Graph. 33, 4, Article 153 (July 2014), 12 pages. DOI:https://doi.org/10.1145/2601097.2601152
+- Matthias Müller, David Charypar, and Markus Gross. 2003. Particle-based fluid simulation for interactive applications. In Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation (SCA '03). Eurographics Association, Goslar, DEU, 154–159.
   
 ## Data Management Systems
 - Jeffrey Dean and Sanjay Ghemawat. 2008. MapReduce: simplified data processing on large clusters. Commun. ACM 51, 1 (January 2008), 107–113. DOI:https://doi.org/10.1145/1327452.1327492

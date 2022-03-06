@@ -60,6 +60,9 @@ A list of articles I read.
 * "A Review of Shader Languages", Alain Galvan, Feb. 13, 2022, https://alain.xyz/blog/a-review-of-shader-languages
 * "Robust Routing Using Electrical Flows ", Ali Kemal Sinop and Kostas Kollias, Feb. 18, 2022, https://ai.googleblog.com/2022/02/robust-routing-using-electrical-flows.html
 
+### March
+* "Recent Advances in Deep Learning for Routing Problems", Chaitanya K. Joshi, Rishabh Anand, Jan. 12, 2022, https://www.chaitjo.com/post/deep-learning-for-routing-problems/?s=09
+
 #### The ryg blog: A trip through the Graphics Pipeline
 * "A trip through the Graphics Pipeline 2011, part 13", Oct. 09, 2011, https://fgiesen.wordpress.com/2011/10/09/a-trip-through-the-graphics-pipeline-2011-part-13/
 
